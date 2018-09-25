@@ -1,2 +1,3 @@
 # hello-world
-this anthor repository
+这个anthor存储库
+hi  humnes
